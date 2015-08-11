@@ -39,12 +39,33 @@ def mathml2svg(mathml, settings=None):
 
 def convert(request):
     """Convert the POST'd MathML to SVG"""
-    return Response()
+    try:
+        mathml = request.POST['MathML']
+    except KeyError:
+        raise httpexceptions.HTTPBadRequest("Missing required parameters")
+    if request.content_type.startswith('multipart/form-data'):
+        mathml = mathml.file.read()
+    if isinstance(mathml, str):
+        mathml = mathml.encode('utf8')
 
+    svg = mathml2svg(mathml)
+    return Response(svg, content_type="image/svg+xml")
 
 def main(global_config, **settings):
     """Application factory"""
+    # Ensure settings
+    oerexports_path = settings.get('oer.exports_path')
+    if not oerexports_path:
+        raise RuntimeError("'oer.exports_path' is a required setting")
+    # Derive a few settings from oer.exports_path
+    settings['_saxon_jar_filepath'] = os.path.abspath(os.path.join(
+        oerexports_path, 'lib', 'saxon9he.jar'))
+    settings['_mathml2svg_xsl_filepath'] = os.path.abspath(os.path.join(
+        oerexports_path, 'xslt2', 'math2svg-in-docbook.xsl'))
+
     config = Configurator(settings=settings)
+
+    # Configure views
     config.add_route('convert', '/', request_method='POST')
     config.add_view(convert, route_name='convert')
     return config.make_wsgi_app()
