@@ -7,6 +7,7 @@ from setuptools import setup, find_packages
 IS_PY3 = sys.version_info > (3,)
 
 install_requires = (
+    'lxml',
     'pyramid',
     )
 tests_require = [
@@ -42,10 +43,7 @@ setup(
     extras_require=extras_require,
     packages=find_packages(),
     include_package_data=True,
-    package_data={
-        'cnxmathml2svg.tests': ['data/*.mathml.xml'],
-        },
-    test_suite='cnxmathml2svg.tests',
+    test_suite='tests',
     entry_points="""\
     [paste.app_factory]
     main = cnxmathml2svg:main
