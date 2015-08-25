@@ -33,7 +33,10 @@ def mathml2svg(mathml, settings=None):
     out, err = p.communicate(mathml)
 
     parser = etree.XMLParser(recover=True)
-    xml = etree.parse(BytesIO(out), parser)
+    try:
+        xml = etree.parse(BytesIO(out), parser)
+    except etree.XMLSyntaxError:
+        raise ValueError(err)
 
     svg = etree.tostring(xml)
     return svg
@@ -49,7 +52,10 @@ def convert(request):
     if isinstance(mathml, str):
         mathml = mathml.encode('utf8')
 
-    svg = mathml2svg(mathml)
+    try:
+        svg = mathml2svg(mathml)
+    except ValueError as exc:
+        raise httpexceptions.HTTPInternalServerError(*exc.args)
     return Response(svg, content_type="image/svg+xml")
 
 def main(global_config, **settings):

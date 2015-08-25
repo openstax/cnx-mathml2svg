@@ -27,6 +27,8 @@ SETTINGS = {
     }
 
 MATHML = """<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true"><mrow><mi>sin</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>"""
+# This isn't really invalid, but the pmml2svg process trips over it.
+INVALID_MATHML = """<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow> <mi>x</mi> <mo>=</mo> <mfrac> <mrow> <mo>&#8722;<!-- &#8722; --></mo> <mi>b</mi> <mo>&#177;<!-- &#177; --></mo> <msqrt> <msup> <mi>b</mi> <mn>2</mn> </msup> <mo>&#8722;<!-- &#8722; --></mo> <mn>4</mn> <mi>a</mi> <mi>c</mi> </msqrt> </mrow> <mrow> <mn>2</mn> <mi>a</mi> </mrow> </mfrac> </mrow><annotation encoding="math/tex">x=\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}</annotation></semantics></math>"""
 
 
 class SVGGeneration(unittest.TestCase):
@@ -82,3 +84,17 @@ class Views(unittest.TestCase):
         from cnxmathml2svg import convert
         with self.assertRaises(httpexceptions.HTTPBadRequest):
             convert(request)
+
+    def test_transform_failure(self):
+        """Test MathML2SVG post with content that won't transform,
+        but contains valid xml and MathML elements.
+        """
+        request = Request.blank('/', POST={'MathML': INVALID_MATHML})
+
+        from cnxmathml2svg import convert
+        exception_cls = httpexceptions.HTTPInternalServerError
+        with self.assertRaises(exception_cls) as caught_exc:
+            convert(request)
+
+        exception = caught_exc.exception
+        self.assertIn(b'Error reported by XML parser: ', exception.message)
