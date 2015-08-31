@@ -137,4 +137,4 @@ class Views(unittest.TestCase):
             convert(request)
 
         exception = caught_exc.exception
-        self.assertIn(b'Error reported by XML parser: ', exception.message)
+        self.assertIn(b'Error reported by XML parser: ', exception.comment)

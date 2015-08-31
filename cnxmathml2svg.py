@@ -60,6 +60,9 @@ def convert(request):
         svg = mathml2svg(mathml)
     except ValueError as exc:
         raise httpexceptions.HTTPInternalServerError(*exc.args)
+    except CalledProcessError:
+        raise httpexceptions.HTTPInternalServerError(
+            comment='Error reported by XML parser: ')
     return Response(svg, content_type="image/svg+xml")
 
 def main(global_config, **settings):
