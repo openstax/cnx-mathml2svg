@@ -12,6 +12,8 @@ from pyramid import httpexceptions
 from pyramid import testing as pyramid_testing
 from pyramid.request import Request
 
+from saxon import Saxon
+from subprocess import CalledProcessError
 
 try:
     OEREXPORTS_PATH = os.environ['OEREXPORTS_PATH']
@@ -29,6 +31,44 @@ SETTINGS = {
 MATHML = """<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true"><mrow><mi>sin</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>"""
 # This isn't really invalid, but the pmml2svg process trips over it.
 INVALID_MATHML = """<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow> <mi>x</mi> <mo>=</mo> <mfrac> <mrow> <mo>&#8722;<!-- &#8722; --></mo> <mi>b</mi> <mo>&#177;<!-- &#177; --></mo> <msqrt> <msup> <mi>b</mi> <mn>2</mn> </msup> <mo>&#8722;<!-- &#8722; --></mo> <mn>4</mn> <mi>a</mi> <mi>c</mi> </msqrt> </mrow> <mrow> <mn>2</mn> <mi>a</mi> </mrow> </mfrac> </mrow><annotation encoding="math/tex">x=\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}</annotation></semantics></math>"""
+
+
+def load_data(file_name):
+    with open(file_name, 'r') as f:
+        data = f. read()
+    return data
+
+SVG = load_data('test_data/svg.xml')
+
+
+class Test_Saxon(unittest.TestCase):
+
+    @classmethod
+    def setUpClass(cls):
+        cls._saxon = Saxon()
+
+    @classmethod
+    def tearDownClass(cls):
+        cls._saxon.stop()
+
+    def setUp(self):
+        self.saxon = self._saxon
+
+    def test_class_setup(self):
+        returned_svg = self.saxon.convert(MATHML).strip('\t\r\n ')
+        expected_svg = SVG.strip('\t\r\n ')
+        self.assertEqual(returned_svg, expected_svg)
+
+    def test_multiple_saxon_calls(self):
+        for i in range(0, 10):
+            returned_svg = self.saxon.convert(MATHML).strip('\t\r\n ')
+            expected_svg = SVG.strip('\t\r\n ')
+            self.assertEqual(returned_svg, expected_svg)
+
+    def test_invalid_mathml_error(self):
+        self.addCleanup(self.setUpClass)
+        with self.assertRaises(CalledProcessError):
+            self.saxon.convert(INVALID_MATHML)
 
 
 class SVGGeneration(unittest.TestCase):

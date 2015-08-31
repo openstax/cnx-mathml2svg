@@ -7,6 +7,8 @@
 # ###
 import os
 import subprocess
+from subprocess import CalledProcessError
+
 from io import BytesIO
 
 from lxml import etree
@@ -15,22 +17,24 @@ from pyramid.config import Configurator
 from pyramid.response import Response
 from pyramid.threadlocal import get_current_registry
 
+from saxon import Saxon
+
+sax = None
+
 __all__ = ('main',)
 
 
 def mathml2svg(mathml, settings=None):
     """Returns an SVG from the given *mathml*."""
+    global sax
+
     if settings is None:
         settings = get_current_registry().settings
-    cmd = ('java', '-jar',
-           settings['_saxon_jar_filepath'],
-           '-s:-',  # says input from stdin
-           '-xsl:{}'.format(settings['_mathml2svg_xsl_filepath']),
-           )
-    p = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.PIPE,
-                         stderr=subprocess.PIPE, close_fds=True)
+    if sax is None:
+        sax = Saxon(saxon_path=settings['_saxon_jar_filepath'], math2svg_path=settings[
+                    '_mathml2svg_xsl_filepath'])
 
-    out, err = p.communicate(mathml)
+    out = sax.convert(mathml)
 
     parser = etree.XMLParser(recover=True)
     try:
