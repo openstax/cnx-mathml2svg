@@ -13,9 +13,9 @@ class Saxon:
         saxon_path = os.path.abspath(saxon_path)
 
         if not os.path.exists(saxon_path):
-             raise IOError("File: {} not found".format(SAXON_PATH))
+             raise IOError("File: {} not found".format(saxon_path))
         if not os.path.isfile(math2svg_path):
-             raise IOError("File: {} not found".format(MATH2SVG_PATH))
+             raise IOError("File: {} not found".format(math2svg_path))
 
         self.compile_cmd = "javac -cp {} SaxonTransformWrapper.java".format(
             os.path.basename(saxon_path))
