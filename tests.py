@@ -70,6 +70,42 @@ class Test_Saxon(unittest.TestCase):
         with self.assertRaises(CalledProcessError):
             self.saxon.convert(INVALID_MATHML)
 
+    @unittest.skip("Run this test to generate performance graphics")
+    def test_performance_gain(self):
+        """Compare Saxon class to subprocss performance"""
+        import math
+        import timeit
+        import numpy as np
+        import matplotlib.pyplot as plt
+        import matplotlib.patches as mpatches
+        x=[]
+        y_single=[]
+        y_multi=[]
+        for iterations in [int(math.pow(2,i)) for i in range(0,5)]:
+            stmt="saxon.convert('{}')".format(MATHML)
+            setup='from saxon import Saxon;saxon=Saxon()'
+            single_process_call=timeit.timeit(stmt,setup,number=iterations)
+            setup="import subprocess;cmd = 'java -jar {_saxon_jar_filepath} -s:- -xsl:{_mathml2svg_xsl_filepath}'".format(**SETTINGS)
+            stmt="p = subprocess.Popen(cmd.split(), stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, close_fds=True);p.communicate('{}')".format(MATHML)
+            multiple_process_call=timeit.timeit(stmt,setup,number=iterations)
+            self.assertLess(single_process_call,multiple_process_call)
+            x.append(iterations)
+            y_single.append(single_process_call)
+            y_multi.append(multiple_process_call)
+
+        slope_single, intercept_single = np.polyfit(x,y_single,1)
+        slope_multi, intercept_multi = np.polyfit(x,y_multi,1)
+        plt.title("Estimated {0:.1f}x performance gain ".format(slope_multi/slope_single))
+        
+        plot_single, =plt.plot(x, y_single)
+        plot_multi, =plt.plot(x, y_multi)
+        plt.legend([plot_single,plot_multi],['single process','multiple processes'],loc=0)
+        plt.axis([0,max(x),0,max(max(y_single),max(y_multi))])
+        plt.ylabel("Time (s)")
+        plt.xlabel("Loop iterations")
+        plt.show()        
+
+         
 
 class SVGGeneration(unittest.TestCase):
 
