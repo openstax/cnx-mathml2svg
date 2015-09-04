@@ -1,6 +1,6 @@
 import subprocess
 import os
-
+from os.path import exists, isfile, join, basename, abspath, dirname
 SAXON_PATH = "./oer.exports/lib/saxon9he.jar"
 DELIMINATOR = "END_OF_XML_BLOCK"
 MATH2SVG_PATH = "./oer.exports/xslt2/math2svg-in-docbook.xsl"
@@ -9,22 +9,22 @@ MATH2SVG_PATH = "./oer.exports/xslt2/math2svg-in-docbook.xsl"
 class Saxon:
 
     def __init__(self, saxon_path=SAXON_PATH, math2svg_path=MATH2SVG_PATH):
-        math2svg_path = os.path.abspath(math2svg_path)
-        saxon_path = os.path.abspath(saxon_path)
+        math2svg_path = abspath(math2svg_path)
+        saxon_path = abspath(saxon_path)
 
-        if not os.path.exists(saxon_path):
+        if not exists(saxon_path):
              raise IOError("File: {} not found".format(saxon_path))
-        if not os.path.isfile(math2svg_path):
+        if not isfile(math2svg_path):
              raise IOError("File: {} not found".format(math2svg_path))
 
         self.compile_cmd = "javac -cp {} SaxonTransformWrapper.java".format(
-            os.path.basename(saxon_path))
+            basename(saxon_path))
         self.process = subprocess.Popen(self.compile_cmd.split(),
                                         stdin=subprocess.PIPE,
                                         stdout=subprocess.PIPE,
                                         stderr=subprocess.PIPE,
                                         close_fds=True,
-                                        cwd=os.path.dirname(saxon_path))
+                                        cwd=dirname(saxon_path))
         self.process.wait()
         self.start_cmd = "java -cp saxon9he.jar:.:{0} SaxonTransformWrapper -s:- -xsl:{1} -deliminator:{2}".format(
             saxon_path, math2svg_path, DELIMINATOR)
@@ -33,7 +33,7 @@ class Saxon:
                                         stdout=subprocess.PIPE,
                                         stderr=subprocess.PIPE,
                                         close_fds=True,
-                                        cwd=os.path.dirname(saxon_path))
+                                        cwd=dirname(saxon_path))
 
     def convert(self, xml):
         self.process.stdin.write(xml)
