@@ -31,7 +31,7 @@ The POST parameter at this time is ``MathML``.
 
 Example::
 
-    curl -F 'MathML=<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true"><mrow><mi>sin</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>' http://localhost:6543/
+    curl -F 'MathML=<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true"><mrow><mi>sin</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>' http://localhost:5689/
 
 
 License
