@@ -37,6 +37,14 @@ or::
 
    echo '<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true"><mrow><mi>sin</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>' | curl -F 'MathML=@-' http://localhost:5689/
 
+or in python::
+
+   >>> import requests
+   >>> payload = {'MathML':'<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true"><mrow><mi>sin</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>'}
+   >>> r = requests.post("http://localhost:5689", data=payload)
+   >>> r.text
+   u'<svg xmlns="http://www.w3.org/2000/svg" ....
+
 License
 -------
 
