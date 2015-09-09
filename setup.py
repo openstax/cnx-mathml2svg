@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
-from setuptools import setup, find_packages
+from setuptools import setup
 
 
 IS_PY3 = sys.version_info > (3,)
@@ -41,8 +41,8 @@ setup(
     install_requires=install_requires,
     tests_require=tests_require,
     extras_require=extras_require,
-    packages=find_packages(),
     include_package_data=True,
+    py_modules=['cnxmathml2svg'],
     test_suite='tests',
     entry_points="""\
     [paste.app_factory]
