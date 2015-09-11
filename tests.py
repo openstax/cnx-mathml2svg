@@ -40,6 +40,7 @@ def load_data(file_name):
 
 SVG = load_data('test_data/svg.xml')
 
+BLK_MATHML = load_data('test_data/blocking_mathml.xml')
 
 class Test_Saxon(unittest.TestCase):
 
@@ -58,6 +59,13 @@ class Test_Saxon(unittest.TestCase):
         returned_svg = self.saxon.convert(MATHML).strip('\t\r\n ')
         expected_svg = SVG.strip('\t\r\n ')
         self.assertEqual(returned_svg, expected_svg)
+
+#    @unittest.skip("erroring")
+    def test_blocking_mathml(self):
+        self.saxon.convert(MATHML)
+#        self.saxon.convert(BLK_MATHML)
+        self.saxon.convert(MATHML)
+
 
     def test_multiple_saxon_calls(self):
         for i in range(0, 10):
