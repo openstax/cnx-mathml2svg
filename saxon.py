@@ -81,7 +81,7 @@ class Saxon:
             svg_line = self.process.stdout.readline()
         self._flush()
         svg = '\n'.join(svg_list).strip()
-        return svg
+        return (svg,process_info)
 
     def _flush(self):
         self.process.stdin.flush()
