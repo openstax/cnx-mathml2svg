@@ -39,14 +39,21 @@ class Saxon:
         self.process.stdin.write(xml)
         self.process.stdin.write("\n" + DELIMINATOR + "\n")
         process_info = self.process.stderr.readline()
-        if "LOG: INFO: MathML2SVG" in process_info:
-            pass
-        elif "Error" in process_info:
+        if "LOG: INFO: MathML2SVG" not in process_info:
             self.process.terminate()
             returncode = self.process.wait()
             process_info = "Error reported by XML parser: " + process_info
             raise subprocess.CalledProcessError(
                 returncode, self.start_cmd, process_info)
+
+#        if "LOG: INFO: MathML2SVG" in process_info:
+#            pass
+#        elif "Error" in process_info or "WARNING" in process_info:
+#            self.process.terminate()
+#            returncode = self.process.wait()
+#            process_info = "Error reported by XML parser: " + process_info
+#            raise subprocess.CalledProcessError(
+#                returncode, self.start_cmd, process_info)
         svg_line = ''
         svg_list = []
         while DELIMINATOR not in svg_line:
