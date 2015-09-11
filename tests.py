@@ -40,6 +40,7 @@ def load_data(file_name):
 
 SVG = load_data('test_data/svg.xml')
 
+UNBOUNDED_MATHML = load_data('test_data/unbounded_mathml.xml')
 
 class Test_Saxon(unittest.TestCase):
 
@@ -69,6 +70,15 @@ class Test_Saxon(unittest.TestCase):
         self.addCleanup(self.setUpClass)
         with self.assertRaises(CalledProcessError):
             self.saxon.convert(INVALID_MATHML)
+
+    def test_unbounded_mathml(self):
+#        self.addCleanup(self.setUpClass)
+#        with self.assertRaises(CalledProcessError):
+        self.saxon.convert(MATHML)
+        self.saxon.convert(UNBOUNDED_MATHML)
+        self.saxon.convert(MATHML)
+        self.saxon.convert(MATHML)
+
 
     @unittest.skip("Run this test to generate performance graphics")
     def test_performance_gain(self):
