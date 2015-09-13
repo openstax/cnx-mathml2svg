@@ -18,7 +18,10 @@ from pyramid.response import Response
 from pyramid.threadlocal import get_current_registry
 
 from saxon import Saxon
+import memcache
+import hashlib
 
+mc = None
 sax = None
 
 __all__ = ('main',)
@@ -27,22 +30,33 @@ __all__ = ('main',)
 def mathml2svg(mathml, settings=None):
     """Returns an SVG from the given *mathml*."""
     global sax
+    global mc
 
     if settings is None:
         settings = get_current_registry().settings
     if sax is None:
         sax = Saxon(saxon_path=settings['_saxon_jar_filepath'], math2svg_path=settings[
                     '_mathml2svg_xsl_filepath'])
+    if mc is None:
+        mc = memcache.Client(['127.0.0.1:11211'], debug=0)
+    mathml_key = hashlib.md5()
+    mathml_key.update(mathml)
+    mathml_key = mathml_key.hexdigest()
+    svg = mc.get(mathml_key)
 
-    out = sax.convert(mathml)
-
-    parser = etree.XMLParser(recover=True)
-    try:
-        xml = etree.parse(BytesIO(out), parser)
-    except etree.XMLSyntaxError:
-        raise ValueError(err)
-
-    svg = etree.tostring(xml)
+    if svg is None:
+    
+        out = sax.convert(mathml)
+    
+        parser = etree.XMLParser(recover=True)
+        try:
+            xml = etree.parse(BytesIO(out), parser)
+        except etree.XMLSyntaxError:
+            raise ValueError(err)
+    
+        svg = etree.tostring(xml)
+        mc.set(mathml_key,svg)
+  
     return svg
 
 def convert(request):
