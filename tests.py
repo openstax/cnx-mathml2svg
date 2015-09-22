@@ -173,4 +173,4 @@ class Views(unittest.TestCase):
             convert(request)
 
         exception = caught_exc.exception
-        self.assertIn(b'Error reported by XML parser: ', exception.comment)
+        self.assertIn('XMLSyntaxError: PCDATA invalid Char',exception.message) 
