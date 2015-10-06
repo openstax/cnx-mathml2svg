@@ -1,0 +1,3989 @@
+<root><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:mi>n</mml:mi>
+                      </mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mstyle fontsize="8pt">
+                            <mml:mrow>
+                              <mml:mrow>
+                                <mml:mo stretchy="false">&#8722;</mml:mo>
+                                <mml:mrow/>
+                              </mml:mrow>
+                            </mml:mrow>
+                          </mml:mstyle>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>H or D</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>H or T</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mstyle fontsize="8pt">
+                            <mml:mrow>
+                              <mml:mrow>
+                                <mml:mo stretchy="false">&#8722;</mml:mo>
+                                <mml:mrow/>
+                              </mml:mrow>
+                            </mml:mrow>
+                          </mml:mstyle>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>He</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>1</mml:mn>
+                          <mml:mtext>.</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>38</mml:mtext>
+                            <mml:mo stretchy="false">&#215;</mml:mo>
+                            <mml:msup>
+                              <mml:mtext>10</mml:mtext>
+                              <mml:mstyle fontsize="8pt">
+                                <mml:mrow>
+                                  <mml:mrow>
+                                    <mml:mo stretchy="false">&#8722;</mml:mo>
+                                    <mml:mn>4</mml:mn>
+                                  </mml:mrow>
+                                </mml:mrow>
+                              </mml:mstyle>
+                            </mml:msup>
+                          </mml:mrow>
+                          <mml:mtext/>
+                        </mml:mrow>
+                      </mml:mrow>
+                      <mml:mrow><mml:mtext>%</mml:mtext></mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>He</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:mrow>
+                          <mml:mrow/>
+                          <mml:mtext>&#8776;100%</mml:mtext>
+                          <mml:mtext/>
+                        </mml:mrow>
+                      </mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>6</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>7</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>7</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Be</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>9</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Be</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>10</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>B</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>11</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>B</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>11</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>C</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+        <mml:mrow><mml:mrow>
+            <mml:mrow>
+              <mml:msup>
+                <mml:mi>&#946;</mml:mi>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mo stretchy="false">+</mml:mo>
+                    <mml:mrow/>
+                  </mml:mrow>
+                </mml:mrow>
+              </mml:msup>
+            </mml:mrow>
+            <mml:mrow/>
+          </mml:mrow></mml:mrow>
+      </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>12</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>C</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>13</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>C</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>14</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>C</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+              <mml:mrow><mml:mrow>
+                  <mml:mstyle fontsize="12pt">
+                    <mml:mrow>
+                      <mml:msup>
+                        <mml:mi>&#946;</mml:mi>
+                        <mml:mstyle fontsize="8pt">
+                          <mml:mrow>
+                            <mml:mrow>
+                              <mml:mo stretchy="false">&#8722;</mml:mo>
+                              <mml:mrow/>
+                            </mml:mrow>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:msup>
+                    </mml:mrow>
+                  </mml:mstyle>
+                  <mml:mrow/>
+                </mml:mrow></mml:mrow>
+            </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>13</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>N</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mstyle fontsize="8pt">
+                            <mml:mrow>
+                              <mml:mrow>
+                                <mml:mo stretchy="false">+</mml:mo>
+                                <mml:mrow/>
+                              </mml:mrow>
+                            </mml:mrow>
+                          </mml:mstyle>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>14</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>N</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>15</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>N</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>15</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>O</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+        <mml:mrow><mml:mrow>
+            <mml:mrow>
+              <mml:msup>
+                <mml:mi>&#946;</mml:mi>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mo stretchy="false">+</mml:mo>
+                    <mml:mrow/>
+                  </mml:mrow>
+                </mml:mrow>
+              </mml:msup>
+            </mml:mrow>
+            <mml:mrow/>
+          </mml:mrow></mml:mrow>
+      </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>16</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>O</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>18</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>O</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>18</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>F</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+        <mml:mrow><mml:mrow>
+            <mml:mrow>
+              <mml:msup>
+                <mml:mi>&#946;</mml:mi>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mo stretchy="false">+</mml:mo>
+                    <mml:mrow/>
+                  </mml:mrow>
+                </mml:mrow>
+              </mml:msup>
+            </mml:mrow>
+            <mml:mrow/>
+          </mml:mrow></mml:mrow>
+      </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>19</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>F</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>20</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ne</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>22</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ne</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>22</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Na</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+              <mml:mrow><mml:mrow>
+                  <mml:mstyle fontsize="12pt">
+                    <mml:mrow>
+                      <mml:msup>
+                        <mml:mi>&#946;</mml:mi>
+                        <mml:mstyle fontsize="8pt">
+                          <mml:mrow>
+                            <mml:mrow>
+                              <mml:mo stretchy="false">+</mml:mo>
+                              <mml:mrow/>
+                            </mml:mrow>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:msup>
+                    </mml:mrow>
+                  </mml:mstyle>
+                  <mml:mrow/>
+                </mml:mrow></mml:mrow>
+            </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>23</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Na</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>24</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Na</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+              <mml:mrow><mml:mrow>
+                  <mml:mstyle fontsize="12pt">
+                    <mml:mrow>
+                      <mml:msup>
+                        <mml:mi>&#946;</mml:mi>
+                        <mml:mstyle fontsize="8pt">
+                          <mml:mrow>
+                            <mml:mrow>
+                              <mml:mo stretchy="false">&#8722;</mml:mo>
+                              <mml:mrow/>
+                            </mml:mrow>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:msup>
+                    </mml:mrow>
+                  </mml:mstyle>
+                  <mml:mrow/>
+                </mml:mrow></mml:mrow>
+            </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>24</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Mg</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>27</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Al</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>28</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Si</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>31</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Si</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+              <mml:mrow><mml:mrow>
+                  <mml:mstyle fontsize="12pt">
+                    <mml:mrow>
+                      <mml:msup>
+                        <mml:mi>&#946;</mml:mi>
+                        <mml:mstyle fontsize="8pt">
+                          <mml:mrow>
+                            <mml:mrow>
+                              <mml:mo stretchy="false">&#8722;</mml:mo>
+                              <mml:mrow/>
+                            </mml:mrow>
+                          </mml:mrow>
+                        </mml:mstyle>
+                      </mml:msup>
+                    </mml:mrow>
+                  </mml:mstyle>
+                  <mml:mrow/>
+                </mml:mrow></mml:mrow>
+            </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>31</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>P</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>32</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>P</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mstyle fontsize="8pt">
+                            <mml:mrow>
+                              <mml:mrow>
+                                <mml:mo stretchy="false">&#8722;</mml:mo>
+                                <mml:mrow/>
+                              </mml:mrow>
+                            </mml:mrow>
+                          </mml:mstyle>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>32</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>S</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>35</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>S</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mstyle fontsize="8pt">
+                            <mml:mrow>
+                              <mml:mrow>
+                                <mml:mo stretchy="false">&#8722;</mml:mo>
+                                <mml:mrow/>
+                              </mml:mrow>
+                            </mml:mrow>
+                          </mml:mstyle>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>35</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cl</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>37</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cl</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>40</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ar</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>39</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>K</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>40</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>K</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mstyle fontsize="12pt"><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mstyle fontsize="8pt"><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:mstyle></mml:msup></mml:mrow></mml:mstyle><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+        <mml:mrow><mml:mrow>
+            <mml:mrow>
+              <mml:mrow>
+                <mml:mn>1</mml:mn>
+                <mml:mtext>.</mml:mtext>
+                <mml:mrow>
+                  <mml:mtext>28</mml:mtext>
+                  <mml:mo stretchy="false">&#215;</mml:mo>
+                  <mml:msup>
+                    <mml:mtext>10</mml:mtext>
+                    <mml:mrow>
+                      <mml:mn>9</mml:mn>
+                    </mml:mrow>
+                  </mml:msup>
+ <mml:mtext>y</mml:mtext>
+                </mml:mrow>
+              </mml:mrow>
+            </mml:mrow>
+            <mml:mrow/>
+          </mml:mrow></mml:mrow>
+      </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>40</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ca</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>45</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Sc</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>48</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>51</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>V</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>52</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>55</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Mn</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>56</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Fe</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>59</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Co</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>60</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Co</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mstyle fontsize="12pt">
+                      <mml:mrow>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mstyle fontsize="8pt">
+                            <mml:mrow>
+                              <mml:mrow>
+                                <mml:mo stretchy="false">&#8722;</mml:mo>
+                                <mml:mrow/>
+                              </mml:mrow>
+                            </mml:mrow>
+                          </mml:mstyle>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mstyle>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>58</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ni</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>60</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ni</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>63</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cu</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>65</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cu</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>64</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Zn</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>66</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Zn</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>69</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ga</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>72</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ge</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>74</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ge</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>75</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>As</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>80</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Se</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>79</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Br</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>84</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Kr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>85</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Rb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>86</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Sr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>88</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Sr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>90</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Sr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>89</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Y</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>90</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Y</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>90</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Zr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>93</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Nb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>98</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Mo</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>98</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Tc</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>4</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mn>2</mml:mn>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>6</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>102</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ru</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>103</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Rh</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>106</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pd</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>107</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ag</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>109</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ag</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>114</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cd</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>115</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>In</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>4</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mn>4</mml:mn>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mtext>14</mml:mtext>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>120</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Sn</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>121</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Sb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>130</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Te</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mn>5</mml:mn>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mtext>21</mml:mtext>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>127</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>I</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>131</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>I</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>132</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Xe</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>136</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Xe</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>133</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cs</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>134</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cs</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>137</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ba</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>138</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ba</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>139</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>La</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>140</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ce</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>141</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>142</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Nd</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>145</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pm</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>152</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Sm</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>153</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Eu</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>158</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Gd</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>159</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Tb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>164</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Dy</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>165</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ho</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>166</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Er</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>169</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Tm</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>174</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Yb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>175</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Lu</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>180</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Hf</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>181</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ta</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>184</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>W</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>187</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Re</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>4</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mn>6</mml:mn>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mtext>10</mml:mtext>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>191</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Os</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>192</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Os</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>191</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ir</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>193</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ir</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>195</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pt</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>197</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Au</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>198</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Au</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>199</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Hg</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>202</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Hg</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>205</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Tl</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>206</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>207</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>208</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>210</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi><mml:mi>,</mml:mi><mml:mspace width="0.20em"/><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>211</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>212</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pb</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>209</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Bi</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>211</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Bi</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mi>&#945;</mml:mi>
+                        <mml:mi>, </mml:mi>
+                          <mml:mspace width="0.20em"/>
+                        <mml:msup>
+                    
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mrow>
+                            <mml:mrow>
+                              <mml:mo stretchy="false">&#8722;</mml:mo>
+                              <mml:mrow/>
+                            </mml:mrow>
+                          </mml:mrow>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>210</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Po</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>218</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>At</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mi>&#945;</mml:mi>
+                        <mml:mi>, </mml:mi>
+                          <mml:mspace width="0.20em"/>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mrow>
+                            <mml:mrow>
+                              <mml:mo stretchy="false">&#8722;</mml:mo>
+                              <mml:mrow/>
+                            </mml:mrow>
+                          </mml:mrow>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>222</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Rn</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>223</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Fr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mi>&#945;</mml:mi>
+                        <mml:mi>, </mml:mi>
+                          <mml:mspace width="0.20em"/>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mrow>
+                            <mml:mrow>
+                              <mml:mo stretchy="false">&#8722;</mml:mo>
+                              <mml:mrow/>
+                            </mml:mrow>
+                          </mml:mrow>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>226</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ra</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>1</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>60</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>3</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>227</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Ac</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mi>&#945;</mml:mi>
+                        <mml:mi>,</mml:mi>
+                          <mml:mspace width="0.20em"/>
+                        <mml:msup>
+                          <mml:mi>&#946;</mml:mi>
+                          <mml:mrow>
+                            <mml:mrow>
+                              <mml:mo stretchy="false">&#8722;</mml:mo>
+                              <mml:mrow/>
+                            </mml:mrow>
+                          </mml:mrow>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>228</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Th</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>232</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Th</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>1</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>41</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mtext>10</mml:mtext>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>231</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pa</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>3</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>28</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>4</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>233</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>U</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>1</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>59</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>3</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>235</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>U</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>7</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>04</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>8</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>236</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>U</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>34</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>7</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>238</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>U</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>4</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>47</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>9</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>239</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>U</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>239</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Np</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>239</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Pu</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>41</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>4</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>243</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Am</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi><mml:mi>,</mml:mi></mml:mrow></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>7</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>37</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>3</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>245</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cm</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>8</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>50</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>3</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>247</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Bk</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>1</mml:mn>
+                        <mml:mtext>.</mml:mtext>
+                        <mml:mrow>
+                          <mml:mtext>38</mml:mtext>
+                          <mml:mo stretchy="false">&#215;</mml:mo>
+                          <mml:msup>
+                            <mml:mtext>10</mml:mtext>
+                            <mml:mrow>
+                              <mml:mn>3</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mtext>y</mml:mtext>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>249</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Cf</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>254</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Es</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi><mml:mi>,</mml:mi><mml:mspace width="0.20em"/><mml:msup><mml:mi>&#946;</mml:mi><mml:mrow><mml:mrow><mml:mo stretchy="false">&#8722;</mml:mo><mml:mrow/></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>253</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Fm</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>255</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Md</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>255</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>No</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>257</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Lr</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>261</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Rf</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>262</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Db</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi><mml:mi>,</mml:mi></mml:mrow></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>263</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Sg</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common"><mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mi>&#945;</mml:mi><mml:mi>,</mml:mi></mml:mrow></mml:mrow><mml:mrow/></mml:mrow></mml:mrow></mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>262</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Bh</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>264</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Hs</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+<mml:mrow><mml:mrow>
+<mml:mstyle fontsize="12pt">
+<mml:mrow>
+<mml:msup>
+<mml:mtext/>
+<mml:mstyle fontsize="8pt">
+<mml:mrow>
+<mml:mrow>
+<mml:mn>266</mml:mn>
+<mml:mrow/>
+</mml:mrow>
+</mml:mrow>
+</mml:mstyle>
+</mml:msup>
+</mml:mrow>
+<mml:mtext>Mt</mml:mtext>
+</mml:mstyle>
+<mml:mrow/>
+</mml:mrow></mml:mrow>
+</mml:math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:db="http://docbook.org/ns/docbook" xmlns:c="http://cnx.rice.edu/cnxml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:ext="http://cnx.org/ns/docbook+" xmlns:exsl="http://exslt.org/common">
+                <mml:mrow><mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>&#945;</mml:mi>
+                    </mml:mrow>
+                    <mml:mrow/>
+                  </mml:mrow></mml:mrow>
+              </mml:math></root>

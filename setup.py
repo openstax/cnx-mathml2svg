@@ -44,6 +44,7 @@ setup(
     include_package_data=True,
     py_modules=['cnxmathml2svg'],
     test_suite='tests',
+#    test_suite='tests.Test_Saxon.test_transform_failure_4',
     entry_points="""\
     [paste.app_factory]
     main = cnxmathml2svg:main

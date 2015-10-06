@@ -1,3 +1,4 @@
+#import ipdb; ipdb.set_trace()
 # -*- coding: utf-8 -*-
 # ###
 # Copyright (c) 2015, Rice University
@@ -10,7 +11,7 @@ import subprocess
 from subprocess import CalledProcessError
 import functools
 from io import BytesIO
-
+import threading
 from lxml import etree
 from pyramid import httpexceptions
 from pyramid.config import Configurator
@@ -30,8 +31,8 @@ def validate(function):
     @functools.wraps(function)
     def wrapper(xml,*args, **kwds):
         try:
-            xml=etree.fromstring(xml)
-            xml=etree.tostring(xml)
+            etree.tostring(etree.fromstring(xml))
+#            xml=etree.tostring(xml)
         except etree.XMLSyntaxError as err:
             raise ValueError("XMLSyntaxError: "+err.message)
 
@@ -64,6 +65,11 @@ def cache(function):
             return xml
     return wrapper
 
+def restart_saxon():
+    global sax
+    os.kill(sax.process.pid)
+    sax=None
+    raise threading.ThreadError
 
 @validate
 @cache
@@ -77,8 +83,10 @@ def mathml2svg(mathml, settings=None):
     if sax is None:
         sax = Saxon(saxon_path=settings['_saxon_jar_filepath'], 
                     math2svg_path=settings['_mathml2svg_xsl_filepath'])
-
-        svg = sax.convert(mathml)
+    t = threading.Timer(2.0,restart_saxon)
+    t.start()
+    svg =sax.convert(mathml)
+    t.cancel()
       
     return svg
 
@@ -95,6 +103,9 @@ def convert(request):
 
     try:
         svg = mathml2svg(mathml)
+    except threading.ThreadError as exc:
+        raise httpexceptions.HTTPInternalServerError(*exc.args)
+        
     except ValueError as exc:
         raise httpexceptions.HTTPInternalServerError(*exc.args)
     except CalledProcessError:

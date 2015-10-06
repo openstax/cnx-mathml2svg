@@ -26,8 +26,19 @@ class Saxon:
                                         close_fds=True,
                                         cwd=os.path.dirname(saxon_path))
         self.process.wait()
-        self.start_cmd = "java -cp saxon9he.jar:.:{0} SaxonTransformWrapper -s:- -xsl:{1} -deliminator:{2}".format(
-            saxon_path, math2svg_path, DELIMINATOR)
+
+        saxon_class_path = os.path.join(os.path.dirname(saxon_path),"SaxonTransformWrapper.class")
+        if not os.path.isfile(saxon_class_path):
+             raise IOError("File: {} not found".format(saxon_class_path))
+       
+
+        self.start_cmd = "java "\
+                         "-cp saxon9he.jar:.:{0} SaxonTransformWrapper "\
+                         "-s:- -xsl:{1} "\
+                         "-deliminator:{2}".format(saxon_path, 
+                                                   math2svg_path, 
+                                                   DELIMINATOR)
+
         self.process = subprocess.Popen(self.start_cmd.split(),
                                         stdin=subprocess.PIPE,
                                         stdout=subprocess.PIPE,
@@ -35,10 +46,20 @@ class Saxon:
                                         close_fds=True,
                                         cwd=os.path.dirname(saxon_path))
 
+        # remove class to make sure that it is regenerated every time.
+#        remove_cmd= "rm {0}".format(saxon_class_path)
+#        subprocess.call(remove_cmd.split())
+
+
+
     def convert(self, xml):
         self.process.stdin.write(xml)
         self.process.stdin.write("\n" + DELIMINATOR + "\n")
         process_info = self.process.stderr.readline()
+        while "LOG: INFO: MathML2SVG" not in process_info:
+            process_info = self.process.stderr.readline()
+            if "Error" in process_info:
+                break;
         if "LOG: INFO: MathML2SVG" in process_info:
             pass
         elif "Error" in process_info:
